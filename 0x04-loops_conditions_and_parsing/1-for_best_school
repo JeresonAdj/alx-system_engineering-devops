@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# Displays 'Best School' in stdout 10 times
+# Displays 'Best School' in stdout 10 times as the quetion says
 
 for (( i=0; i<10; i++ )) 
 do
